@@ -1,18 +1,13 @@
-# Tailwind CSS Full Course 2023 | Build and Deploy a Nike Website
-![Nike Landing Page](https://i.ibb.co/pxzMGb4/Thumbnail-2.png)
-
-## Tailwind CSS Starter Kit
-📚 https://resource.jsmastery.pro/tailwind-starter-kit
+## Nike Landing Page (Static)
+📚 https://
 
 ## Summary
-Dive into the world of Tailwind CSS, build a Nike website, and join top-tier organizations like OpenAI, Shopify, and NASA in building stunning apps effortlessly.
+This project is a simple static landing page for a fictional Nike website. It was built using React and styled with Tailwind CSS. 
+The main purpose of this project is to demonstrate the use of React's useState for managing component state, 
+as well as Tailwind CSS for responsive design and layout using grid and flex utilities.
 
-In this course, you'll:
-- Learn how to make the most out of Tailwind CSS
-- Fully understand how Tailwind works behind-the-scenes
-- Follow all of Tailwind's best practices
-- Put all of your newly gained Tailwind skills to the test by building a beautiful Nike landing page
-  
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
+Remarks :
+- Static Landing Page: The project showcases a static landing page for a Nike website, featuring various sections such as the hero section, product sections, and a footer.
+- React Components: Different sections of the landing page are built as reusable React components, demonstrating the component-based nature of React.
+- State Management: React's useState hook is used to manage component state, allowing for dynamic interactions within the page.
+- Grid and Flex Layout: Tailwind CSS grid and flex utilities are employed for creating the layout and positioning of elements within the page.
