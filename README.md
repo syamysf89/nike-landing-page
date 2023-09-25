@@ -1,5 +1,5 @@
 ## Nike Landing Page (Static)
-📚 [https://](https://nikelandingpage.syamyusof.repl.co)
+📚 [https://nikelandingpage.syamyusof.repl.co](https://nikelandingpage.syamyusof.repl.co)
 
 ## Summary
 This project is a simple static landing page for a fictional Nike website. It was built using React and styled with Tailwind CSS. 
